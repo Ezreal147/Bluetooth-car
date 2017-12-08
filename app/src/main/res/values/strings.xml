@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">蓝牙小车</string>
+    <string name="devicelist">搜索设备</string>
+    <string name="dialog_activity">连接中</string>
+</resources>
